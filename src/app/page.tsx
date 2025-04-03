@@ -330,12 +330,7 @@ export default function Home() {
     </section>
 
     {/* footer */}
-    <footer>
-      <ul>
-        <li><a href="/privacy-policy">Privacy Policy</a></li>
-        <li><a href="/terms-of-service">Terms of Service</a></li>
-      </ul>
-    </footer>
+      <Footer/>
     </>
   );
 }

@@ -4,7 +4,7 @@ export default function footer() {
       <>
         <footer className="bg-light py-5 mb-10">
           <div className="container px-4 px-lg-5">
-            <div className="small text-center text-muted">Copyright &copy; 2024 - FlexiBuilder</div>
+            <div className="small text-center text-muted">Copyright &copy; 2024 - FlexiBuilder <a href="/privacy-policy">Privacy Policy</a>&<a href="/terms-of-service">Terms of Service</a></div>
           </div>
         </footer>
       </>
